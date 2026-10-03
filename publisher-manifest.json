@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "082273d8c57da5490b31714e",
+  "owner": "fpxmgqfqx",
+  "repo": "page-de4b7d9d0c37e6e275e162f8",
+  "title": "xiaochuan",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "de4b7d9d0c37e6e275e162f8",
+      "a": "xiaochuan",
+      "b": "",
+      "entity": "xiaochuan",
+      "brand": "xiaochuan",
+      "separator": "",
+      "path": "index.html",
+      "hash": "79e9c97077acc4eeb8a4ba20d1d95b6bf5314f7a688272a6c106b101f589cac1",
+      "content": {
+        "keyword1": "xiaochuan",
+        "keyword2": "",
+        "primary_entity": "xiaochuan",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "xiaochuan 提供机场订阅与 VPN 网络加速服务，涵盖套餐说明、多端客户端下载及完整配置流程，帮助用户稳定使用梯子与加速器访问流媒体、游戏与办公场景。",
+          "AI_DESCRIPTION": "xiaochuan 提供机场订阅与 VPN 网络加速服务，涵盖套餐说明、多端客户端下载及完整配置流程，帮助用户稳定使用梯子与加速器访问流媒体、游戏与办公场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,sans-serif;background:#f7f5f0;color:#1a2e24;font-size:16px;line-height:1.65}header{background:#1b4d36;color:#f7f5f0;padding:12px 0}header .brand{font-weight:700;font-size:1.15rem;letter-spacing:.02em}nav ul{display:flex;flex-wrap:wrap;gap:8px 14px;list-style:none;margin-top:8px}nav a{color:#e8f2eb;font-size:.95rem}main{padding:8px 0 32px}.wrap{width:100%;max-width:920px;margin:0 auto;padding:0 16px}h1{font-size:1.7rem;color:#143528;margin:18px 0 10px;line-height:1.3}h2{font-size:1.28rem;color:#1b4d36;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #c5dccb}h3{font-size:1.05rem;color:#204e38;margin:14px 0 6px}p,li{margin-bottom:8px}ul,ol{padding-left:1.2em;margin-bottom:12px}.lead{font-size:1.02rem;color:#2a3d32}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:16px 0}.card{flex:1 1 250px;background:#fff;border:1px solid #d3e2d6;border-radius:8px;padding:14px 16px}.card.featured{border:2px solid #1b4d36;background:#eef6f0}.badge{display:inline-block;background:#1b4d36;color:#fff;font-size:.75rem;padding:2px 8px;border-radius:4px;margin-bottom:6px}.price{font-size:1.35rem;font-weight:700;color:#1b4d36}.annual{font-size:.88rem;color:#3d5c4a;margin:4px 0 8px}.card ul{list-style:none;padding:0;margin:0}.card li{padding:4px 0;border-bottom:1px dashed #e4eee6;font-size:.95rem;margin:0}.steps{background:#fff;border:1px solid #d3e2d6;border-radius:8px;padding:16px;margin:12px 0}.steps ol{margin:0;padding-left:1.3em}.steps li{margin-bottom:10px}details{background:#fff;border:1px solid #d3e2d6;border-radius:6px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#1b4d36}details p{margin:8px 0 0;color:#2c3e34}footer{background:#e8efe9;border-top:1px solid #c5dccb;padding:20px 0;font-size:.9rem;color:#3d5c4a}footer a{color:#1b4d36}@media (max-width:640px){h1{font-size:1.4rem}h2{font-size:1.15rem}nav ul{flex-direction:column;gap:6px}.card{flex-basis:100%}.wrap{padding:0 12px}}</style><header><div class=\"wrap\"><p class=\"brand\">xiaochuan 官网</p><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main><div class=\"wrap\"><h1>xiaochuan 官方机场订阅与 VPN 网络加速</h1><p class=\"lead\">xiaochuan 提供机场订阅、多端客户端下载与清晰配置流程，覆盖流媒体解锁、游戏加速与跨境办公场景，帮助您稳定使用梯子与网络加速器。</p><section id=\"intro\"><h2>品牌简介</h2><p>xiaochuan 是专注机场订阅服务的品牌，面向需要稳定节点与灵活客户端的用户。我们在官网上公开套餐说明、流量与设备额度，并配套操作说明，降低首次配置成本。无论是个人日常加速还是小团队协作，都可以按需选择基础版、旗舰版或团队版。</p><p>服务侧重点包括：可更新的订阅链接、覆盖主流地区的节点池、对 Clash 等客户端的兼容，以及针对游戏与流媒体的线路优化。旗舰版起提供 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版另支持企业定制路由与专属客户经理。</p><p>xiaochuan 坚持通过官网发布客户端指引与配置步骤，避免来路不明的安装包。下载、订阅与工单均以本站信息为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>观看海外平台、学术视频或创作者内容时，可使用 xiaochuan 订阅导入客户端，按规则分流。旗舰版强调全节点原生解锁，减少片源限制带来的反复切换。</p><h3>游戏与实时对战</h3><p>对延迟敏感的玩家可优先考虑旗舰版 IPLC 游戏加速优化线路，配合就近节点降低抖动。配置流程中建议先测延迟再固定常用节点。</p><h3>远程办公与开发</h3><p>访问代码托管、文档协作与云控制台时，规则模式可只代理必要域名，兼顾速度与稳定性。团队版适合多人同时在线与定制路由。</p><h3>出行与多设备</h3><p>手机、电脑、平板同时在线时，请对照套餐设备上限。基础版 3 台、旗舰版 5 台、团队版 20 台，订阅一次即可在各端导入同一机场链接。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为 xiaochuan 当前公开套餐，年付相当于优惠两个月。开通后即可在用户中心复制订阅地址，用于客户端导入。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>xiaochuan 将配置流程拆成可执行的五步，建议按顺序完成。整个过程无需复杂命令行，以图形客户端导入订阅为主。</p><div class=\"steps\"><ol><li><strong>选择并开通套餐。</strong> 根据流量、设备数与是否需要 IPLC、原生解锁，选择基础版、旗舰版或团队版。年付可降低月均成本。开通成功后登录用户中心。</li><li><strong>复制机场订阅链接。</strong> 在控制台找到订阅地址或 Clash / 通用订阅，整段复制。请勿在公开频道分享，以免被滥用导致流量耗尽或被重置。</li><li><strong>下载并安装客户端。</strong> 前往本页客户端下载章节，按系统选择 Clash Meta、Clash Verge、Shadowrocket、Stash 等。仅从官网指引的渠道获取，安装后允许本地代理权限。</li><li><strong>导入订阅并更新节点。</strong> 打开客户端，使用从 URL 导入粘贴 xiaochuan 订阅链接，开启定时更新。导入后可看到港、日、新、美等分组节点。</li><li><strong>选择模式并连接。</strong> 日常浏览建议规则模式，仅代理需要加速的站点；需要全局时再切换。连接后访问目标网站确认。游戏请手动指定 IPLC 或低延迟节点。若无法连接，检查系统代理端口、关闭冲突软件后重试，旗舰与团队用户可走优先工单。</li></ol></div><h3>各端导入要点</h3><p>Windows：Clash Verge 或 Clash Meta 中添加配置，粘贴订阅地址，开启 TUN 模式可接管系统流量。macOS：ClashX.Meta，注意授权网络扩展。Android：Clash Meta 导入后保持通知常驻。iOS：Shadowrocket 添加订阅并开启代理，首次需信任描述文件。</p><p>配置完成后建议收藏本页配置流程，后续换机只需重新导入同一订阅即可，无需重复购买。</p></section><section id=\"download\"><h2>客户端下载</h2><p>xiaochuan 不绑定单一应用，而是兼容主流客户端。请根据设备选择，并通过 <a href=\"#guide\">配置流程</a> 完成订阅导入。以下为官网推荐方向，具体安装包请在对应项目的官方发布页获取，谨防仿冒下载站。</p><ul><li>Windows：Clash Verge、Clash Meta、v2rayN（配合订阅转换）</li><li>macOS：ClashX.Meta、Clash Verge</li><li>Android：Clash Meta for Android、Surfboard</li><li>iOS / iPadOS：Shadowrocket、Stash、Quantumult X（需非国区账号）</li><li>路由器：可使用订阅配合常见插件，团队版更适合统一下发</li></ul><p>xiaochuan 官方网站仅提供配置说明与套餐信息，客户端本体请使用各软件官方渠道，以免证书与更新异常。下载后回到 <a href=\"#guide\">操作说明</a> 继续导入。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>xiaochuan 机场订阅如何获取？</summary><p>开通任意套餐后，在用户中心复制订阅地址。将该链接导入 Clash 等客户端即可拉取节点列表。若链接失效，可在控制台重置。请只通过 xiaochuan 官网登录获取，不要使用来路不明的共享链接。</p></details><details><summary>支持哪些客户端？如何完成官网下载后的配置？</summary><p>支持 Clash 系、Shadowrocket、Stash、Quantumult X、v2rayN 等。先按本页客户端下载说明安装软件，再按配置流程粘贴订阅。Windows 用户若系统代理无效，可尝试开启 TUN。详细步骤见操作说明与配置流程。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 设备）。需要全节点原生解锁、游戏 IPLC 与优先工单选旗舰版。多人、高流量或需要定制路由选团队版。年付价为月费的十倍，相当于少付约两个月。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>当月流量耗尽后加速会暂停，可等待下月重置或升级套餐。同时在线超过套餐台数时，新设备可能无法连接，请先在已登录设备中断开或升级到旗舰版、团队版。团队版提供 1000GB 与 20 台额度，适合共用。</p></details><details><summary>能否解锁流媒体？节点是否包含游戏线路？</summary><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁。游戏方面，旗舰版含 IPLC 专线游戏加速优化，建议在客户端中选择标注游戏或 IPLC 的节点。遇到失败可更换同区域节点或提交工单。</p></details><details><summary>xiaochuan 官网与客户端安全吗？订阅会不会泄漏？</summary><p>请只通过本站公布的入口查看配置说明。客户端请从各项目官方渠道获取。订阅链接相当于访问凭证，泄漏后他人可消耗您的流量，发现异常立即重置订阅。xiaochuan 不会要求您运行来源不明的插件。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>xiaochuan 官网 · 机场订阅 · VPN 梯子网络加速 · 客户端下载</p><p><a href=\"#\">返回顶部</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#download\">官方下载指引</a></p><p>内容仅供了解 xiaochuan 套餐、使用场景与操作说明。请通过官方网站完成订阅与客户端配置。</p></div></footer>",
+          "hash": "13ea21692e70e83cc23554e83be8dfc8013da68174ac5113d8827f18faf82c0a",
+          "seo": {
+            "title": "xiaochuan官网 - 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "xiaochuan,xiaochuan官网,xiaochuan机场,xiaochuan VPN,机场订阅,客户端下载,网络加速,梯子,加速器,官方下载,配置流程",
+            "description": "xiaochuan 提供机场订阅与 VPN 网络加速服务，涵盖套餐说明、多端客户端下载及完整配置流程，帮助用户稳定使用梯子与加速器访问流媒体、游戏与办公场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vcitxwy.cn",
+    "host": "p-b1a5ea080f.vcitxwy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "buzuodd.cn",
+      "url": "https://buzuodd.cn/",
+      "label": "xiaochuan",
+      "apex": "buzuodd.cn",
+      "kind": null,
+      "identity": "juqvks/page-7da4f0b86140036dd7696581"
+    },
+    {
+      "host": "xn--66t00pnlcwyl351bg6c.com",
+      "url": "https://xn--66t00pnlcwyl351bg6c.com/",
+      "label": "xiaochuan",
+      "apex": "xn--66t00pnlcwyl351bg6c.com",
+      "kind": null,
+      "identity": "wangbadan9/page-c5b7ac12693881e97c6944e9"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "48d6021e3e6869dc73c31a4e159befaba9ddfe56c5520d52cf9f8e13dee02728",
+    "sitemap.xml": "f31ef683b2ea13ceaae51c8e3feb805950c814dc10b6bbaad13768919d9ca0f2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "66291b607ba89f067491fcaecc1a885b81638a5590d04d563806c5a22c72a72a",
+    "robots.txt": "ee66462fd16425e3d8bec8c3dee57c2337880b111a77360cd6f53e3138bedee4",
+    "91e7d2baf80ce1f87635ac72ea924691.txt": "b2855fedcdc717ec0e7b8ca2c4693d3f4a7c349dd7bc26d66ae0058476d59d40"
+  },
+  "revision": "59bc023a2839d0b933b67c11f9e8df60b68c2e830e604298035515d08d637145"
+}
